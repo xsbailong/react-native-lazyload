@@ -1,12 +1,12 @@
 {
-    "name": "react-native-lazyload",
-    "version": "1.1.0",
-    "description": "lazyload for react native",
+    "name": "rn-lazyload",
+    "version": "1.0.0",
+    "description": "lazyload for react native, fork from react-native-lazyload",
     "license": "MIT",
     "main": "./index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/magicismight/react-native-lazyload"
+        "url": "https://github.com/xsbailong/react-native-lazyload.git"
     },
     "dependencies": {
         "react-native-scrollable-mixin": "^1.0.1"
