@@ -1,6 +1,7 @@
 node_modules
 .idea
 .gradle
+.history
 build
 *.iml
 local.properties
